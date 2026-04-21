@@ -1,9 +1,9 @@
 
-## Algoritmo do Banqueiro
+# Algoritmo do Banqueiro
 
 Implementação do trabalho prático da disciplina de Sistemas Operacionais utilizando o Algoritmo do Banqueiro, baseado na obra de Silberschatz, Galvin e Gagne.
 
---
+---
 
 ## Linguagem e tecnologias utilizadas
 
@@ -14,7 +14,7 @@ Implementação do trabalho prático da disciplina de Sistemas Operacionais util
 
 ---
 
-## Pré-requisitos
+# Pré-requisitos
 
 Para executar o projeto é necessário instalar o .NET SDK.
 
@@ -26,7 +26,7 @@ Se aparecer a versão instalada, o ambiente está pronto.
 
 ---
 
-## Como compilar e executar
+# Como compilar e executar
 
 Abra o terminal dentro da pasta do projeto e execute:
 
@@ -42,7 +42,7 @@ Esses valores inicializam o vetor "available".
 
 ---
 
-# Objetivo do projeto
+## Objetivo do projeto
 
 Simular múltiplos clientes concorrentes solicitando e liberando recursos compartilhados, enquanto o sistema decide se cada solicitação pode ser atendida sem entrar em estado inseguro.
 

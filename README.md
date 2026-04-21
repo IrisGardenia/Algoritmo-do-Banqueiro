@@ -1,3 +1,5 @@
+## Algoritmo do Banqueiro
+
 **Implementação do trabalho prático da disciplina de Sistemas Operacionais baseada no Algoritmo do Banqueiro, proposto por Silberschatz.**
 
 O objetivo do projeto é simular múltiplos clientes concorrentes solicitando e liberando recursos compartilhados, enquanto o sistema decide se cada solicitação pode ser atendida sem entrar em estado inseguro.

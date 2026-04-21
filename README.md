@@ -10,11 +10,11 @@ Implementação do trabalho prático da disciplina de Sistemas Operacionais util
 - Linguagem: C#
 - Framework: .NET
 - Sistema Operacional: Windows
-- Ambiente recomendado: Visual Studio Code ou terminal
+- Visual Studio Code e terminal
 
 ---
 
-# Pré-requisitos
+# Pré-requisitos para rodar o algoritmo 
 
 Para executar o projeto é necessário instalar o .NET SDK.
 
@@ -28,11 +28,11 @@ Se aparecer a versão instalada, o ambiente está pronto.
 
 # Como compilar e executar
 
-Abra o terminal dentro da pasta do projeto e execute:
+**Abra o terminal dentro da pasta do projeto e execute:
 
-dotnet run 10 5 7
+dotnet run 10 5 7**
 
-Significado dos parâmetros
+*Significado dos parâmetros*
 
 - "10" = quantidade do recurso A
 - "5" = quantidade do recurso B

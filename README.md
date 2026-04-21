@@ -2,7 +2,7 @@
 
 O objetivo do projeto é simular múltiplos clientes concorrentes solicitando e liberando recursos compartilhados, enquanto o sistema decide se cada solicitação pode ser atendida sem entrar em estado inseguro.
 
-#Tecnologias utilizadas
+**Tecnologias utilizadas**
 - Linguagem: C#
 - Plataforma: .NET
 - Ambiente de execução: Windows / Visual Studio Code / Terminal

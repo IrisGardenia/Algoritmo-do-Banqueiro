@@ -1,4 +1,4 @@
-#Implementação do trabalho prático da disciplina de Sistemas Operacionais baseada no Algoritmo do Banqueiro, proposto por Silberschatz.
+**Implementação do trabalho prático da disciplina de Sistemas Operacionais baseada no Algoritmo do Banqueiro, proposto por Silberschatz.**
 
 O objetivo do projeto é simular múltiplos clientes concorrentes solicitando e liberando recursos compartilhados, enquanto o sistema decide se cada solicitação pode ser atendida sem entrar em estado inseguro.
 
@@ -7,7 +7,7 @@ O objetivo do projeto é simular múltiplos clientes concorrentes solicitando e 
 - Plataforma: .NET
 - Ambiente de execução: Windows / Visual Studio Code / Terminal
 
-#Funcionalidades implementadas
+**Funcionalidades implementadas**
 
 - Criação de múltiplas threads de clientes
 - Solicitações aleatórias de recursos
@@ -17,22 +17,22 @@ O objetivo do projeto é simular múltiplos clientes concorrentes solicitando e 
 - Negação de solicitações inseguras
 - Exibição das operações no terminal
 
-#Estruturas de dados utilizadas
+**Estruturas de dados utilizadas**
 
 - "available": recursos disponíveis
 - "maximum": demanda máxima de cada cliente
 - "allocation": recursos atualmente alocados
 - "need": recursos ainda necessários
 
-#Como compilar e executar
+**Como compilar e executar**
 Pré-requisitos:
 Instalar o .NET SDK.
 Verificar instalação no terminal:
 dotnet --version
 Executar o projeto
-#No terminal, dentro da pasta do projeto:
+**No terminal, dentro da pasta do projeto:**
 
-#dotnet run 10 5 7
+**dotnet run 10 5 7**
 
 Onde:
 
@@ -40,7 +40,7 @@ Onde:
 - "5" = quantidade do recurso B
 - "7" = quantidade do recurso C
 
-#Exemplo de saída
+**Exemplo de saída**
 
 Cliente 1 solicitou [1,0,2] -> APROVADO
 Cliente 3 solicitou [3,1,0] -> NEGADO

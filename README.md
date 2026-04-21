@@ -32,7 +32,7 @@ Se aparecer a versão instalada, o ambiente está pronto.
 
 **dotnet run 10 5 7**
 
-*Significado dos parâmetros*
+**Significado dos parâmetros**
 
 - "10" = quantidade do recurso A
 - "5" = quantidade do recurso B

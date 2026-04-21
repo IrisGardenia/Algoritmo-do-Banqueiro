@@ -28,9 +28,9 @@ Se aparecer a versão instalada, o ambiente está pronto.
 
 # Como compilar e executar
 
-**Abra o terminal dentro da pasta do projeto e execute:
+**Abra o terminal dentro da pasta do projeto e execute:**
 
-dotnet run 10 5 7**
+**dotnet run 10 5 7**
 
 *Significado dos parâmetros*
 

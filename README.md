@@ -68,7 +68,7 @@ Simular múltiplos clientes concorrentes solicitando e liberando recursos compar
 
 ---
 
-# Exemplo de saída*
+# Exemplo de saída
 
 Cliente 1 solicitou [1,0,2] -> APROVADO
 Cliente 3 solicitou [3,1,0] -> NEGADO

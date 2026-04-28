@@ -78,6 +78,6 @@ Cliente 1 liberou [1,0,1]
 
 ---
 
-Referência bibliográfica
+*Referência bibliográfica*
 
 SILBERSCHATZ, Abraham; GALVIN, Peter B.; GAGNE, Greg. Fundamentos de Sistemas Operacionais. 9. ed. LTC.

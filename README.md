@@ -1,4 +1,4 @@
-*Algoritmo do Banqueiro*
+* Algoritmo do Banqueiro *
 
 Implementação do trabalho prático da disciplina de Sistemas Operacionais utilizando o Algoritmo do Banqueiro, baseado na obra de Silberschatz, Galvin e Gagne.
 

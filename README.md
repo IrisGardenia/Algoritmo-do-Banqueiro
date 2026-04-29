@@ -94,7 +94,6 @@ Need:
 2 2 2
 
 4 3 3
----
 
 Cliente 0 pediu [0, 1, 2] -> APROVADO
 
@@ -123,7 +122,6 @@ Need:
 2 2 2
 
 4 3 3
----
 
 Cliente 3 pediu [1, 2, 2] -> APROVADO
 
@@ -151,7 +149,6 @@ Need:
 1 0 0
 
 4 3 3
----
 
 Cliente 2 pediu [0, 0, 0] -> APROVADO
 
@@ -179,8 +176,6 @@ Need:
 1 0 0
 
 4 3 3
-
----
 
 *Referência bibliográfica*
 

@@ -70,11 +70,83 @@ Simular múltiplos clientes concorrentes solicitando e liberando recursos compar
 
 # Exemplo de saída
 
-Cliente 1 solicitou [1,0,2] -> APROVADO
+**ESTADO ATUAL**
+Available: 10 5 7
 
-Cliente 3 solicitou [3,1,0] -> NEGADO
+Allocation:
+0 0 0
+0 0 0
+0 0 0
+0 0 0
+0 0 0
 
-Cliente 1 liberou [1,0,1]
+Need:
+7 5 3
+3 2 2
+9 0 2
+2 2 2
+4 3 3
+---
+
+Cliente 0 pediu [0, 1, 2] -> APROVADO
+
+# ESTADO ATUAL 
+Available: 10 4 5
+
+Allocation:
+0 1 2
+0 0 0
+0 0 0
+0 0 0
+0 0 0
+
+Need:
+7 4 1
+3 2 2
+9 0 2
+2 2 2
+4 3 3
+---
+
+Cliente 3 pediu [1, 2, 2] -> APROVADO
+
+#  ESTADO ATUAL 
+Available: 9 2 3
+
+Allocation:
+0 1 2
+0 0 0
+0 0 0
+1 2 2
+0 0 0
+
+Need:
+7 4 1
+3 2 2
+9 0 2
+1 0 0
+4 3 3
+---
+
+Cliente 2 pediu [0, 0, 0] -> APROVADO
+
+--- ESTADO ATUAL ---
+Available: 9 2 3
+
+Allocation:
+0 1 2
+0 0 0
+0 0 0
+1 2 2
+0 0 0
+
+Need:
+7 4 1
+3 2 2
+9 0 2
+1 0 0
+4 3 3
+---
 
 ---
 

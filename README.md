@@ -97,7 +97,7 @@ Need:
 
 Cliente 0 pediu [0, 1, 2] -> APROVADO
 
-*ESTADO ATUAL*
+**ESTADO ATUAL**
 Available: 10 4 5
 
 Allocation:
@@ -125,7 +125,7 @@ Need:
 
 Cliente 3 pediu [1, 2, 2] -> APROVADO
 
-*ESTADO ATUAL*
+**ESTADO ATUAL**
 Available: 9 2 3
 
 Allocation:
@@ -152,7 +152,7 @@ Need:
 
 Cliente 2 pediu [0, 0, 0] -> APROVADO
 
-*ESTADO ATUAL*
+**ESTADO ATUAL**
 Available: 9 2 3
 
 Allocation:
